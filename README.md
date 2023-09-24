@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Furkan and I'm a software developer  from Turkey</h2>
-
+<a href="mailto:frknyrdm0@gmail.com">
 <p>you can contact me from ; <br>
 E-mail : frknyrdm0@gmail.com </p>
+  </a>
 ###
 
 <div align="center">
