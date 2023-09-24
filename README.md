@@ -1,4 +1,4 @@
-<h6 align="left">Hi 👋! My name is Furkan and I'm a software developer  from Turkey</h6>
+<h2 align="left">Hi 👋! My name is Furkan and I'm a software developer  from Turkey</h2>
 
 <p>you can contact me from ; <br>
 E-mail : frknyrdm0@gmail.com </p>
