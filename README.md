@@ -3,7 +3,7 @@
 <p>you can contact me from ; <br>
 E-mail : <a href="mailto:frknyrdm0@gmail.com">frknyrdm0@gmail.com </p>
   </a>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanhelp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
