@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Furkan and I'm a software developer  from Turkey</h2>
-
-<p>you can contact me from ; <br>
-E-mail : <a href="mailto:frknyrdm0@gmail.com">frknyrdm0@gmail.com </p>
+<h2 align="left"> About Me</h2>
+Motivated and creative Full-Stack Developer with 2+ years experience building responsive web applications and internal tools using React, Next.js, Node.js, and MongoDB. Strong foundation in computer programming with a passion for clean code, learning modern technologies, and solving real-world problems. Looking to grow within a dynamic team, contribute to meaningful projects, and build long-term technical experience.
+<p> <br>You can contact me from;
+<a href="mailto:frknyrdm0@gmail.com">frknyrdm0@gmail.com </p>
   </a>
 
 
