@@ -1,5 +1,5 @@
 <h2 align="left"> About Me</h2>
-I'm a highly motivated and creative Full-Stack Developerwho has transitioned into the world of software from adifferent background. I have over 2 years of experiencedeveloping responsive web applications and internal toolsusing React, Next.js, Node.js, and MongoDB. I'm passionateabout writing clean, maintainable code, learning moderntechnologies, and delivering practical solutions to real-world problems. I aim to contribute to meaningful projectsas part of a dynamic team while continuously deepeningmy technical expertise in the long term.
+I'm a highly motivated and creative Full-Stack Developerwho has transitioned into the world of software from a different background. I have over 2 years of experience developing responsive web applications and internal toolsusing React, Next.js, Node.js, and MongoDB. I'm passionate about writing clean, maintainable code, learning modern technologies, and delivering practical solutions to real-world problems. I aim to contribute to meaningful projectsas part of a dynamic team while continuously deepeningmy technical expertise in the long term.
 <p> <br>You can contact me from;
 <a href="mailto:frknyrdm0@gmail.com">frknyrdm0@gmail.com </p>
   </a>
